@@ -1,0 +1,24 @@
+{
+    "app_port": "8080",
+    "tania_persistence_engine": "sqlite",
+    "demo_mode": false,
+    "upload_path_area": "uploads/areas",
+    "upload_path_crop": "uploads/crops",
+    "mysql_host": "10.0.0.170",
+    "mysql_port": "3306",
+    "mysql_dbname": "tania",
+    "mysql_user": "cirfis",
+    "mysql_password": "cirfis",
+    "sqlite_path": "uploads/tania.db",
+    "redirect_uri": [
+        "http://localhost:8080",
+        "http://127.0.0.1:8080",
+        "http://10.0.0.117:8080",
+        "http://swarm:8080",
+        "http://swarm.cirfis.org:8080",
+        "https://garden.ourhouse.service:443",
+        "https://plants.ourhouse.services:443",
+        "https://farm.ourhouse.services:443"
+    ],
+    "client_id": "83dca6ee-3d67-44e1-9ddd-be4687061dfe"
+}
